@@ -11,8 +11,7 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Movin21&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false)<br/>
 
-
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([[https://linkedin.com/in/MovinduImethLiyanage](https://www.linkedin.com/in/movindu-imeth-liyanage-291b48282/)https://www.linkedin.com/in/movindu-imeth-liyanage-291b48282/]) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/movindu-imeth-liyanage-291b48282/)
 
 
