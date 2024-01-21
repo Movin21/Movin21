@@ -13,6 +13,6 @@
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/MovinduImethLiyanage](https://www.linkedin.com/in/movindu-imeth-liyanage-291b48282/)) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([[https://linkedin.com/in/MovinduImethLiyanage](https://www.linkedin.com/in/movindu-imeth-liyanage-291b48282/)https://www.linkedin.com/in/movindu-imeth-liyanage-291b48282/]) 
 
 
