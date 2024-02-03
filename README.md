@@ -1,7 +1,7 @@
 # Yup,It's Movindu ✌️
 
 
-🎓 A Software Engineering Undergraduate @ SLIIT<br>🌱 Learning about React js, Node js, Express js & Mongo DB
+🎓 SLIIT Software Engineering Undergrad<br>🌱 Learning about React js, Node js, Express js & Mongo DB
 
 # 💻 Tech Stack:
 
