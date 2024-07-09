@@ -3,7 +3,7 @@
 
 🎓 Software Engineering Undergrad<br>🌱 Rooted in Sri Lanka
 
-# 💻 Technologies I have Used:
+# 💻 Tech Stacks:
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
@@ -53,19 +53,18 @@
 <div style="display: flex; justify-content: space-between;">
   <img src="https://github-readme-stats.vercel.app/api?username=Movin21&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub stats" style="width: 50%;"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Movin21&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=true" alt="languages graph" style="width: 42%;"/>
+
 </div>
 
+  <img src="https://raw.githubusercontent.com/Movin21/Movin21/output/snake.svg" alt="Snake animation" />
 
-
-
-
-  
 
 ###
-
-###
-
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/movindu-imeth-liyanage-291b48282/)
+ <div align="left">
+  <a href="www.linkedin.com/in/movindu-liyanage-291b48282" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+</div>
 
 
