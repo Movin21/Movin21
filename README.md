@@ -1,9 +1,9 @@
 # Yup,It's Movindu ✌️
 
 
-🎓 Software Engineering Undergrad<br>🌱 Rooted in Sri Lanka
+🎓 Software Engineering Undergrad<br>👩‍💻 Student Dev<br> 🌱 Rooted in Sri Lanka
 
-# 💻 Tech Stacks:
+## 💻 Languages & Tools:
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
@@ -48,15 +48,17 @@
 </div>
 
 ###
-# 📊 GitHub Stats:
+## 📊 My GitHub Stats:
 
 <div style="display: flex; justify-content: space-between;">
-  <img src="https://github-readme-stats.vercel.app/api?username=Movin21&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub stats" style="width: 50%;"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Movin21&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=true" alt="languages graph" style="width: 42%;"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Movin21&theme=dark&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub stats" style="width: 50%;"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Movin21&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true" alt="languages graph" style="width: 42%;"/>
 
 </div>
 
-  <img src="https://raw.githubusercontent.com/Movin21/Movin21/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
 
 
 ###
