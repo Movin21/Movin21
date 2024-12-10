@@ -1,7 +1,7 @@
 # Yup,It's Movindu ✌️
 
 
-🎓 Software Engineering Undergrad<br>👩‍💻 DevOps | SRE | CLoud<br> 🌱 Rooted in Sri Lanka
+🎓 Software Engineering Undergrad<br>👩‍💻 DevOps | SRE | Cloud<br> 🌱 Rooted in Sri Lanka
 
 ## 💻 Languages & Tools:
 
