@@ -1,7 +1,7 @@
 # Yup,It's Movindu ✌️
 
 
-🎓 SE UG @SLIIT <br>👩‍💻 DevOps | Cloud | Full Stcak Dev.<br> 🌍 From CMB, LK
+🎓 SE UG @SLIIT <br>👩‍💻 DevOps | Cloud | Full Stcak Dev.<br> 🌍 From Colombo, LK
 
 ## 💻 Languages & Tools:
 
