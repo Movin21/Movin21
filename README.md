@@ -1,7 +1,7 @@
 # Yup,It's Movindu ✌️
 
 
-🎓 SE UG @SLIIT <br>👩‍💻 DevOps | Full Stcak Dev.<br> 🌍 From Colombo, LK
+🎓 SE Undergrad @SLIIT <br>👩‍💻 Intern DevOps Engineer  | Cloud Automator ☁️ <br> 🌍 From Colombo, LK
 
 ## 💻 Languages & Tools:
 
@@ -47,17 +47,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="40" alt="materialui logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="kotlin logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="40" alt="r logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="androidstudio logo"  />
-</div>
+
 
 ###
 ## 📊 My GitHub Stats:
