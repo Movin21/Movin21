@@ -1,4 +1,4 @@
-# Yup,It's Movindu ✌️
+# Hey,It's Movindu ✌️
 
 
 🎓 SE Undergrad @SLIIT <br>👩‍💻 Intern DevOps Engineer  | Cloud Automator ☁️ <br> 🌍 From Colombo, LK
