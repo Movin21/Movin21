@@ -21,7 +21,7 @@ infrastructure. Quick learner and collaborative team player seeking to advance
 technical expertise through real-world challenges.
 
 🎓 Education: BSc (Hons) IT - Software Engineering @ SLIIT | GPA: 3.64/4.0
-🚀 Experience: Intern DevOps Engineer @ Bistec Global Services (May-Nov 2025)
+🚀 Experience: Intern DevOps Engineer @ Sysco LABS - IDP
 🏆 Leadership: Dev Lead @ SLIIT SESC | Event Coordinator @ SLIIT FOSS
 
 ABOUT
