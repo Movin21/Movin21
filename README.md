@@ -1,63 +1,62 @@
-#!/usr/bin/env bash
+```text
+  __  __  _____     _____ _   _ ____  _   _   _     _____   __ _    _   _    _    ____ _____
+ |  \/  |/ _ \ \   / /_ _| \ | |  _ \| | | | | |   |_ _\ \ / /  \  | \ | |  / \  / ___| ____|
+ | |\/| | | | \ \ / / | ||  \| | | | | | | | | |    | | \ V / /\ \ |  \| | / _ \| |  _|  _|
+ | |  | | |_| |\ V /  | || |\  | |_| | |_| | | |___ | |  | / ____ \| |\  |/ ___ \ |_| | |___
+ |_|  |_|\___/  \_/  |___|_| \_|____/ \___/  |_____|___| |_/_/    \_\_| \_/_/   \_\____|_____|
+```
 
-cat << 'EOF'
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=1100&color=39FF14&center=true&vCenter=true&width=700&height=55&lines=%24+terraform+apply;%24+kubectl+get+pods;%24+automate+the+repetitive.;%24+build+for+reliability." alt="Animated terminal commands and engineering philosophy" />
+</p>
 
-  __  __  _____     _____ _   _ ____  _   _
- |  \/  |/ _ \ \   / /_ _| \ | |  _ \| | | |
- | |\/| | | | \ \ / / | ||  \| | | | | | | |
- | |  | | |_| |\ V /  | || |\  | |_| | |_| |
- |_|  |_|\___/  \_/  |___|_| \_|____/ \___/
+<p align="center">
+  <strong>DEVOPS &nbsp; / &nbsp; CLOUD &nbsp; / &nbsp; PLATFORM ENGINEERING</strong>
+</p>
 
-  _     _____   __ _    _   _    _    ____ _____
- | |   |_ _\ \ / /  \  | \ | |  / \  / ___| ____|
- | |    | | \ V / /\ \ |  \| | / _ \| |  _|  _|
- | |___ | |  | / ____ \| |\  |/ ___ \ |_| | |___
- |_____|___| |_/_/    \_\_| \_/_/   \_\____|_____|
+---
 
- ┌─────────────────────────────────────────────────────┐
- │  DEVOPS  /  CLOUD  /  PLATFORM ENGINEERING          │
- └─────────────────────────────────────────────────────┘
+### `$ whoami`
 
-~ $ whoami
+Software Engineering graduate, DevOps practitioner, and open-source contributor.
 
-Software Engineering graduate, DevOps practitioner,
-and open-source contributor.
+I work with **Terraform, Kubernetes, and CI/CD pipelines** to automate deployments and improve system reliability. I’m interested in the systems behind great developer experiences—from internal developer platforms to cloud and AI infrastructure.
 
-I build infrastructure that is easier to deploy,
-operate, and trust. My toolkit includes Terraform,
-Kubernetes, and CI/CD pipelines, with a focus on
-automation and system reliability.
+### `$ cat background.yaml`
 
-~ $ cat interests.txt
+```yaml
+education:
+  degree: BSc in Software Engineering
+  university: SLIIT
+  honours: Second Class Upper Division
 
-  → DevOps & Site Reliability Engineering
-  → Internal Developer Platforms
-  → Cloud & AI Infrastructure
-  → Open Source
+experience:
+  role: Intern DevOps Engineer
+  company: Sysco LABS
+  focus: Internal Developer Platform
 
-~ $ cat background.txt
+leadership:
+  - Dev Lead @ SLIIT SESC
+  - Event Coordinator @ SLIIT FOSS
 
-  education   BSc in Software Engineering · SLIIT
-              Second Class Upper Division Honours
+interests:
+  - DevOps & Site Reliability Engineering
+  - Internal Developer Platforms
+  - Cloud & AI Infrastructure
+  - Open Source
+```
 
-  experience  Intern DevOps Engineer · Sysco LABS
-              Internal Developer Platforms (IDPs)
+### `$ ./connect.sh`
 
-  leadership  Dev Lead · SLIIT SESC
-              Event Coordinator · SLIIT FOSS
+[🌐 Portfolio](https://movin.dev) &nbsp; · &nbsp;
+[💼 LinkedIn](https://linkedin.com/in/movindu-liyanage) &nbsp; · &nbsp;
+[📧 Email](mailto:movinduliyanage@gmail.com)
 
+---
 
-~ $ cat links.conf
+```text
+[ status: available ]
+Open to collaborations and opportunities in DevOps & Cloud Engineering.
 
-  portfolio = https://movin.dev
-  linkedin  = https://linkedin.com/in/movindu-liyanage
-  email     = movinduliyanage@gmail.com
-
-~ $ cat status.txt
-
-  Open to collaborations and opportunities
-  in DevOps & Cloud Engineering.
-
-  Build. Automate. Observe. Improve.
-
-EOF
+> Build. Automate. Observe. Improve. _
+```
