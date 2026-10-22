@@ -7,7 +7,7 @@
 
 Software Engineering graduate, DevOps practitioner, and open-source contributor.
 
-I work with **Terraform, Kubernetes, and CI/CD pipelines** to automate deployments and improve system reliability. I’m interested in the systems behind great developer experiences—from internal developer platforms to cloud and AI infrastructure.
+I work with **Terraform, Kubernetes, and CI/CD pipelines** to automate deployments and improve system reliability. I’m interested in the systems behind great developer experiences, from internal developer platforms to cloud and AI infrastructure.
 
 ### `$ ./connect.sh`
 
