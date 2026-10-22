@@ -16,7 +16,11 @@ EOF
 cat << 'ABOUT'
 
 
-Fresh Software Engineering Graduate, DevOps Practitioner, and Open-Source Contributor with a passion for building reliable, scalable infrastructure. I work with Terraform, Kubernetes, and CI/CD pipelines to automate deployments and improve system reliability. My interests span DevOps, Site Reliability Engineering, IDPs, and AI infrastructure, driven by continuous learning and practical problem-solving.
+Fresh Software Engineering Graduate, DevOps Practitioner, and Open-Source Contributor with a
+passion for building reliable, scalable infrastructure.I work with Terraform, Kubernetes, and
+CI/CD pipelines to automate deployments and improve system reliability. My interests span
+DevOps, Site Reliability Engineering, IDPs, and AI infrastructure, driven by continuous learning
+and practical problem-solving.
 
 🎓 Education: BSc in Software Engineering @ SLIIT | 2nd Class - Upper Devision Honours
 🚀 Experience: Intern DevOps Engineer @ Sysco LABS - IDP
