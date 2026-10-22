@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./movindu-terminal.gif" alt="Movindu Liyanage — animated terminal" width="100%" />
+  <img src="./assets/movindu-terminal.gif" alt="Movindu Liyanage — animated terminal" width="100%" />
 </p>
 ---
 
