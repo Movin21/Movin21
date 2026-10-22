@@ -1,17 +1,9 @@
-```text
-  __  __  _____     _____ _   _ ____  _   _   _     _____   __ _    _   _    _    ____ _____
- |  \/  |/ _ \ \   / /_ _| \ | |  _ \| | | | | |   |_ _\ \ / /  \  | \ | |  / \  / ___| ____|
- | |\/| | | | \ \ / / | ||  \| | | | | | | | | |    | | \ V / /\ \ |  \| | / _ \| |  _|  _|
- | |  | | |_| |\ V /  | || |\  | |_| | |_| | | |___ | |  | / ____ \| |\  |/ ___ \ |_| | |___
- |_|  |_|\___/  \_/  |___|_| \_|____/ \___/  |_____|___| |_/_/    \_\_| \_/_/   \_\____|_____|
-```
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=1100&color=39FF14&center=true&vCenter=true&width=700&height=55&lines=%24+terraform+apply;%24+kubectl+get+pods;%24+automate+the+repetitive.;%24+build+for+reliability." alt="Animated terminal commands and engineering philosophy" />
+  <img src="./movindu-terminal.gif" alt="Movindu Liyanage — animated terminal" width="100%" />
 </p>
 
 <p align="center">
-  <strong>DEVOPS &nbsp; / &nbsp; CLOUD &nbsp; / &nbsp; PLATFORM ENGINEERING</strong>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=1500&color=39FF14&center=true&vCenter=true&width=800&height=55&lines=Automate+the+routine.+Focus+on+the+exception.;Build+systems+you+can+trust+at+3+AM.;Small+changes.+Fast+feedback.+Steady+progress.;Reliability+is+a+practice,+not+a+milestone.;Make+the+right+way+the+easy+way.;Observe.+Learn.+Improve.+Repeat." alt="Rotating DevOps philosophies" />
 </p>
 
 ---
