@@ -15,12 +15,10 @@ EOF
 # ----------------------------------------------------------------------------
 cat << 'ABOUT'
 
-Software Engineering undergraduate with 6 months of hands-on experience in 
-cloud migration projects. Passionate about DevOps, SRE, and building scalable 
-infrastructure. Quick learner and collaborative team player seeking to advance 
-technical expertise through real-world challenges.
 
-🎓 Education: BSc (Hons) IT - Software Engineering @ SLIIT | GPA: 3.64/4.0
+Fresh Software Engineering Graduate, DevOps Practitioner, and Open-Source Contributor with a passion for building reliable, scalable infrastructure. I work with Terraform, Kubernetes, and CI/CD pipelines to automate deployments and improve system reliability. My interests span DevOps, Site Reliability Engineering, IDPs, and AI infrastructure, driven by continuous learning and practical problem-solving.
+
+🎓 Education: BSc in Software Engineering @ SLIIT | 2nd Class - Upper Devision Honours
 🚀 Experience: Intern DevOps Engineer @ Sysco LABS - IDP
 🏆 Leadership: Dev Lead @ SLIIT SESC | Event Coordinator @ SLIIT FOSS
 
